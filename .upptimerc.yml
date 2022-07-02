@@ -5,8 +5,10 @@ repo: upptime-playlist # The name of this repository
 sites:
   - name: Test portfolio site (portfolio.iamon99.com)
     url: https://portfolio.iamon99.com
-  - name: Test dashboard site (https://dashboard-76c7d.web.app/)
-    url: https://dashboard-76c7d.web.app/
+  - name: Test dashboard site (https://dashboard-76c7d.web.app)
+    url: https://dashboard-76c7d.web.app
+  - name: Test dashboard site (https://lynked.co.jp)
+    url: https://lynked.co.jp
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
