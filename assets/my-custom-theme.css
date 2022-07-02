@@ -2,28 +2,28 @@
 /* https://github.com/upptime/status-page/tree/476a0fcde0acf8f32d3072631f45602668444c75/static/themes */
 
 :root {
-  --body-background-color: #f0f7f7;
+  --body-background-color: #80000010;
   --body-text-color: #002626;
   --card-background-color: #ffffff;
-  --nav-background-color: #ffffff;
-  --nav-border-bottom-color: #d8e8e4;
-  --nav-current-border-bottom-color: #1abc9c;
   --card-border-color: #d8e8e4;
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffd0d2;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #20bf6b;
-  --tag-color: #ffffff;
-  --tag-up-background-color: #20bf6b;
-  --tag-down-background-color: #eb3b5a;
-  --tag-degraded-background-color: #f7b731;
   --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
+  --degraded-border-left-color: #f7b731;
+  --down-background-color: #ffd0d2;
+  --down-border-left-color: #eb3b5a;
   --error-button-background-color: #3867d6;
+  --error-button-border-color: #1a46ad;
   --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
-  --submit-button-color: #ffffff;
-  --graph-opacity: 1;
   --graph-filter: none;
+  --graph-opacity: 1;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #800000;
+  --nav-current-border-bottom-color: #800000;
+  --submit-button-background-color: #3867d6;
+  --submit-button-border-color: #1a46ad;
+  --submit-button-color: #ffffff;
+  --tag-color: #ffffff;
+  --tag-degraded-background-color: #f7b731;
+  --tag-down-background-color: #eb3b5a;
+  --tag-up-background-color: #20bf6b;
+  --up-border-left-color: #20bf6b;
 }
