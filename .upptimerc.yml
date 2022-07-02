@@ -34,6 +34,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://louiscklaw.github.io/upptime-playlist
-  theme: https://cdn.statically.io/gh/louiscklaw/upptime-playlist/ca540f55/assets/my-custom-theme.css
+  theme: https://cdn.statically.io/gh/louiscklaw/upptime-playlist/master/assets/my-custom-theme.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
