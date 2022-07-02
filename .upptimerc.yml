@@ -32,6 +32,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://louiscklaw.github.io/upptime-playlist
-  theme: test_theme
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
