@@ -58,19 +58,19 @@
     "url": "https://lynked.co.jp",
     "icon": "https://favicons.githubusercontent.com/lynked.co.jp",
     "slug": "test-dashboard-site-https-lynked-co-jp",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1264,
-    "timeDay": 1264,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
+    "time": 1238,
+    "timeDay": 1238,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {
-      "2022-07-02": 0
+      "2022-07-02": 13
     }
   },
   {
