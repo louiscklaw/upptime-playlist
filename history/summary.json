@@ -58,18 +58,20 @@
     "url": "https://lynked.co.jp",
     "icon": "https://favicons.githubusercontent.com/lynked.co.jp",
     "slug": "test-dashboard-site-https-lynked-co-jp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1262,
-    "timeWeek": 1262,
-    "timeMonth": 1262,
-    "timeYear": 1262,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1264,
+    "timeDay": 1264,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
+    "dailyMinutesDown": {
+      "2022-07-02": 0
+    }
   },
   {
     "name": "Google",
