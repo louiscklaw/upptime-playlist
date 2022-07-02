@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "louis self monitoring site"
-  introMessage: "repo https://github.com/louiscklaw/upptime-playlist"
+  introMessage: "[source](https://github.com/louiscklaw/upptime-playlist)"
   navbar:
     - title: Status
       href: /
