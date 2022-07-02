@@ -3,8 +3,8 @@ owner: louiscklaw # Your GitHub organization or username, where this repository 
 repo: upptime-playlist # The name of this repository
 
 sites:
-  - name: My status monitor
-    url: https://status.iamon99.com/dashboard
+  - name: My status monitor(https://status.iamon99.com)
+    url: https://status.iamon99.com
   - name: Test portfolio site (portfolio.iamon99.com)
     url: https://portfolio.iamon99.com
   - name: Test dashboard site (https://dashboard-76c7d.web.app)
