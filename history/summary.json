@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/lynked.co.jp",
     "slug": "test-dashboard-site-https-lynked-co-jp",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1383,
     "timeDay": 820,
     "timeWeek": 1383,
@@ -114,7 +114,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 311,
     "timeMonth": 311,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
