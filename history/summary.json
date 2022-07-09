@@ -4,19 +4,19 @@
     "url": "https://status.iamon99.com",
     "icon": "https://favicons.githubusercontent.com/status.iamon99.com",
     "slug": "my-status-monitor-https-status-iamon99-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 2220,
-    "timeWeek": 1110,
-    "timeMonth": 1110,
-    "timeYear": 1110,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 1097,
+    "timeDay": 1787,
+    "timeWeek": 1097,
+    "timeMonth": 1097,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2022-07-09": 0
+      "2022-07-09": 47
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://portfolio.iamon99.com",
     "icon": "https://favicons.githubusercontent.com/portfolio.iamon99.com",
     "slug": "test-portfolio-site-portfolio-iamon99-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 890,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 738,
+    "timeDay": 819,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-07-09": 0
+      "2022-07-09": 47
     }
   },
   {
