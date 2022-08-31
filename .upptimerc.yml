@@ -13,8 +13,8 @@ sites:
     url: https://lynked.co.jp
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: healthcheck
+    url: http://healthcheck.iamon99.com/ping/e7066192-2650-40e2-a626-be18fb7ee4dd
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
