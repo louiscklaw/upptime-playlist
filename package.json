@@ -1,0 +1,22 @@
+{
+  "name": "upptime-playlist",
+  "version": "1.0.0",
+  "description": "<!--start: description-->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitSync": "git fetch --all && git pull",
+    "gitUpdate": "git add . && git commit -m\"update upptime,\" && yarn gitSync && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/upptime-playlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/upptime-playlist/issues"
+  },
+  "homepage": "https://github.com/louiscklaw/upptime-playlist#readme"
+}

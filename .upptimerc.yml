@@ -3,6 +3,14 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: My status monitor(https://status.iamon99.com)
+    url: https://status.iamon99.com
+  - name: Test portfolio site (portfolio.iamon99.com)
+    url: https://portfolio.iamon99.com
+  - name: Test dashboard site (https://dashboard-76c7d.web.app)
+    url: https://dashboard-76c7d.web.app
+  - name: Test dashboard site (https://lynked.co.jp)
+    url: https://lynked.co.jp
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -26,6 +34,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
