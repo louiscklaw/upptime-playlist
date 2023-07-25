@@ -4,7 +4,7 @@
     "url": "https://status.iamon99.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.iamon99.com.ico",
     "slug": "my-status-monitor-https-status-iamon99-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1223,
     "timeDay": 610,
-    "timeWeek": 613,
+    "timeWeek": 617,
     "timeMonth": 957,
     "timeYear": 1223,
     "dailyMinutesDown": {}
