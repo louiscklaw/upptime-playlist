@@ -4,17 +4,17 @@
     "url": "https://status.iamon99.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.iamon99.com.ico",
     "slug": "my-status-monitor-https-status-iamon99-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 788,
-    "timeWeek": 697,
-    "timeMonth": 684,
-    "timeYear": 1242,
+    "time": 1200,
+    "timeDay": 541,
+    "timeWeek": 647,
+    "timeMonth": 673,
+    "timeYear": 1240,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 487,
     "timeWeek": 447,
     "timeMonth": 450,
-    "timeYear": 1325,
+    "timeYear": 1327,
     "dailyMinutesDown": {}
   },
   {
