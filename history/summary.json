@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1165,
-    "timeDay": 705,
+    "timeDay": 746,
     "timeWeek": 726,
     "timeMonth": 728,
-    "timeYear": 1155,
+    "timeYear": 1150,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1968,
+    "timeYear": 1955,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 54,
+    "timeDay": 62,
     "timeWeek": 85,
     "timeMonth": 102,
     "timeYear": 97,
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1905,
-    "timeDay": 1470,
+    "timeDay": 1390,
     "timeWeek": 2059,
     "timeMonth": 1879,
-    "timeYear": 2002,
+    "timeYear": 2005,
     "dailyMinutesDown": {}
   },
   {
@@ -83,7 +83,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 76,
+    "timeDay": 73,
     "timeWeek": 82,
     "timeMonth": 93,
     "timeYear": 105,
@@ -104,7 +104,7 @@
     "timeDay": 434,
     "timeWeek": 467,
     "timeMonth": 474,
-    "timeYear": 1061,
+    "timeYear": 1055,
     "dailyMinutesDown": {}
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 286,
-    "timeWeek": 237,
-    "timeMonth": 259,
+    "timeDay": 110,
+    "timeWeek": 218,
+    "timeMonth": 255,
     "timeYear": 397,
     "dailyMinutesDown": {}
   },
