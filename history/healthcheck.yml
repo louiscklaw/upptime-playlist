@@ -1,7 +1,7 @@
 url: http://healthcheck.iamon99.com/ping/e7066192-2650-40e2-a626-be18fb7ee4dd
 status: down
-code: 404
-responseTime: 320
-lastUpdated: 2026-11-09T02:33:51.641Z
+code: 502
+responseTime: 3224
+lastUpdated: 2026-11-10T04:34:06.745Z
 startTime: 2022-08-31T07:59:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
